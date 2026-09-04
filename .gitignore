@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+
+# ツール実行で生成される成果物（再生成可能なため追跡しない）
+/output/
+/report.md
+/summary.csv
